@@ -54,7 +54,7 @@ async def start(client, message):
                     InlineKeyboardButton('🏞 𝐉𝐨𝐢𝐧 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎇', url=CHNL_LNK)
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgUAAxkBAAICB2T0IB5D_CUQcCIuz0uZG4s6RtQSAAL5BwACvb-JVJLiDCu3Q_ABMAQ") 
+        m=await message.reply_sticker("CAACAgUAAxkBAAICC2T0DUKaLgNmKbjCx8VM7_YqE1nDAAIsCAACN8SBVD8YN2Dum9f2MAQ") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -153,10 +153,10 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/+SJRv2hIgyUxiZjk1'),
-                          InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                          InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/DeltaFiles'),
+                          InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/DeltaFiles')
                        ],[
-                          InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/+SJRv2hIgyUxiZjk1")
+                          InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/RequestGroupTamil")
                          ]
                         ]
                     )
@@ -173,9 +173,9 @@ async def start(client, message):
                         [
                          [
                           InlineKeyboardButton('🦞 𝐀𝐮𝐭𝐡𝐨𝐫 ❄', url=f'https://t.me/{SUPPORT_CHAT}'),
-                          InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                          InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/DeltaFiles')
                        ],[
-                          InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/+SJRv2hIgyUxiZjk1")
+                          InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/RequestGroupTamil")
                          ]
                         ]
                     )
@@ -261,7 +261,7 @@ async def start(client, message):
                     [
                         InlineKeyboardButton('🎋 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐍𝐨𝐰 ♠', url=g)
                     ], [
-                        InlineKeyboardButton('👁‍🗨 𝐇𝐨𝐰 𝐭𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 👁‍🗨', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                        InlineKeyboardButton('👁‍🗨 𝐇𝐨𝐰 𝐭𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 👁‍🗨', url='https://t.me/VikramAllUpdate/21')
                     ]
                 ]
             )
@@ -282,7 +282,7 @@ async def start(client, message):
                     [
                         InlineKeyboardButton('🎋 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐍𝐨𝐰 ♠', url=g)
                     ], [
-                        InlineKeyboardButton('👁‍🗨 𝐇𝐨𝐰 𝐭𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 👁‍🗨', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                        InlineKeyboardButton('👁‍🗨 𝐇𝐨𝐰 𝐭𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 👁‍🗨', url='https://t.me/VikramAllUpdate/21')
                     ]
                 ]
             )
@@ -329,10 +329,10 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/+SJRv2hIgyUxiZjk1'),
-                      InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                      InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/DeltaFiles'),
+                      InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/DeltaFiles')
                    ],[
-                      InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/+SJRv2hIgyUxiZjk1")
+                      InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/RequestGroupTamil")
                      ]
                     ]
                 )
@@ -361,7 +361,7 @@ async def start(client, message):
                         [
                             InlineKeyboardButton('🎋 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐍𝐨𝐰 ♠', url=g)
                         ], [
-                            InlineKeyboardButton('👁‍🗨 𝐇𝐨𝐰 𝐭𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 👁‍🗨', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                            InlineKeyboardButton('👁‍🗨 𝐇𝐨𝐰 𝐭𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 👁‍🗨', url='https://t.me/VikramAllUpdate/21')
                         ]
                     ]
                 )
@@ -391,10 +391,10 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/+SJRv2hIgyUxiZjk1'),
-                      InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                      InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/DeltaFiles'),
+                      InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/DeltaFiles')
                    ],[
-                      InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/+SJRv2hIgyUxiZjk1")
+                      InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/RequestGroupTamil")
                      ]
                     ]
                 )
@@ -451,10 +451,10 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/+SJRv2hIgyUxiZjk1'),
-              InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/+SJRv2hIgyUxiZjk1')
+              InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/DeltaFiles'),
+              InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/DeltaFiles')
            ],[
-              InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/+SJRv2hIgyUxiZjk1")
+              InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/RequestGroupTamil")
              ]
             ]
         )
