@@ -1,22 +1,22 @@
 class script(object):
     START_TXT = """𝐇𝐞𝐥𝐥𝐨... {}
     
-𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 <a href=https://t.me/Athu_see_1287bot><b>☔𝐀𝐭𝐡𝐮𝐬𝐞𝐞♣</b></a>
+𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 <a href=https://t.me/DeltaFilterxBot><b>☔𝐃𝐞𝐥𝐭𝐚 𝐅𝐢𝐥𝐭𝐞𝐫 𝐱 𝐁𝐨𝐭♣</b></a>
 
 𝐈 𝐂𝐚𝐧 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐨𝐯𝐢𝐞𝐬, 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝 𝐌𝐚𝐤𝐞 𝐌𝐞 𝐀𝐝𝐦𝐢𝐧.. 𝐓𝐡𝐞𝐧 𝐒𝐞𝐞 𝐌𝐲 𝐏𝐨𝐰𝐞𝐫
 
-𝐌𝐚𝐤𝐞𝐫 𝐌𝐞 <a href=https://t.me/Vinoth0003><b>♣𝐀𝐮𝐭𝐡𝐨𝐫🥀</b></a></b>"""
+𝐌𝐚𝐤𝐞𝐫 𝐌𝐞 <a href=https://t.me/Delta_Owner><b>♣𝐀𝐮𝐭𝐡𝐨𝐫🥀</b></a></b>"""
     HELP_TXT = """<b>𝐇𝐞𝐲 {} 𝐅𝐫𝐢𝐞𝐧𝐝𝐬 𝐇𝐞𝐫𝐞 𝐘𝐨𝐮𝐫 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 👇</b>"""
 
-    ABOUT_TXT = """<b>🎧 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=https://t.me/Athu_see_1287bot>☔𝐀𝐭𝐡𝐮𝐬𝐞𝐞♣</a>
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/vinoth42012'>𒆜 ᴠɪɴᴏᴛʜ 𝟐𝐊 ࿐</a>
-✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
-✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
-✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
-✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
+    ABOUT_TXT = """<b>🎧 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=https://t.me/DeltaFilterxBot>☔𝐃𝐞𝐥𝐭𝐚 𝐅𝐢𝐥𝐭𝐞𝐫 𝐱 𝐁𝐨𝐭♣</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Delta_Owner'>彡[ 𝙳𝙴𝙻𝚃𝙰-ᴏᴡɴᴇʀ]彡</a>
+✯ Lɪʙʀᴀʀʏ: Pʏʀᴏɢʀᴀᴍ
+✯ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
+✯ DᴀᴛᴀBᴀsᴇ: MᴏɴɢᴏDB
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: 𝐕𝐏𝐒
+✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: Stable Server </b>"""
 
-    SOURCE_TXT = """𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐧 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐁𝐲 @Vinoth0003
+    SOURCE_TXT = """𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐧 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐁𝐲 @Delta_Owner
 
 - 𝟏𝟎𝟎﹪ 𝐂𝐨𝐝𝐞𝐝 𝐁𝐲 <a href=https://t.me/SMD_Owner>🌿𝐑𝐨𝐥𝐞𝐱🦞</a>
 
@@ -201,19 +201,17 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>[{file_name}]</b>
+<b>📂 𝐅𝐢𝐥𝐞 𝐍𝐚𝐦𝐞 : </b> <b>{file_name}</b>
 
-<b>🅢🅘🅩🅔 - {file_size}</b>
+<b>
+╭─────── • ◆ • ───────╮
+🔅 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛:  <a href="https://t.me/DeltaFiles">♻️𝐂𝐥𝐢𝐜𝐤♻️</a>
+╰─────── • ◆ • ───────╯
 
-<b>•────•────────•────•
-🔆𝗥ᴇǫᴜᴇsᴛ 𝗚ʀᴏᴜᴘ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/hdmovie1211)
-🌟𝗠ᴏᴠɪᴇs 𝗖ʜᴀɴɴᴇʟ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+SJRv2hIgyUxiZjk1)
-•────•────────•────•
-⚙𝗔ᴅᴠɪsᴏʀ :[ᴠɪɴᴏᴛʜ 𝟐𝐊࿐](https://t.me/vinoth42012)
-
-😎 நன்றி தலைவரே  🙏🏻
-
-🔥 𝐀𝐥𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐒𝐞𝐫𝐢𝐞𝐬 / 𝐌𝐨𝐯𝐢𝐞𝐬 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 🔥</b>"""
+=========== • ✠ • ===========
+▫️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : @DeltaFiles
+▫️ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 : @RequestGroupTamil
+=========== • ✠ • ===========</b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
